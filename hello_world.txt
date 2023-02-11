@@ -1,1 +1,2 @@
-First line goes here
+First line goes here.
+Second line goes here.
