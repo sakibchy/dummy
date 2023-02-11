@@ -1,2 +1,4 @@
 # dummy
-Dummy
+
+My Second Github repo!
+Hello Odin!
