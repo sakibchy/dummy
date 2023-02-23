@@ -17,13 +17,11 @@ h1 {
 .half-width img {
   width: 100%;
 }
-/*
 .top-banner {
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqCn5_3V1zz0JVhjkwjxEbexVfEKj38T-sUg&usqp=CAU");
+  background-image: url("images/top-banner.png");
   background-repeat: no-repeat;
 }
-*/
 
 section {
-  height: 100px;
+  height: 500px;
 }
